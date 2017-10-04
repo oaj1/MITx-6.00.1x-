@@ -17,7 +17,7 @@ def polysum(n,s):
     result1 =  (area +  (perimeter ** 2))
     resultFinal = round(result1,4)
     
-   print(result)
+   print(resultFinal)
     
     return resultFinal
 
